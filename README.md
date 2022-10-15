@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hüseyin</h1>
 
-<h3 align="center">A person who focused to learn from Ankara,Turkey</h3>
+<h3 align="center">A person who focused.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> <a href="https://linkedin.com/in/hueseyinbing" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a> </p>
